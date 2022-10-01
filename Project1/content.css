@@ -1,0 +1,7 @@
+.content {
+    height: 800px;
+    opacity: 0.5;
+    transform: rotate(60deg);
+    display: flex;
+    transition: all 0.3s ease-in-out;
+}
